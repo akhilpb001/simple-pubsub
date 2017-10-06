@@ -1,0 +1,19 @@
+{
+  "name": "simple-pubsub",
+  "version": "0.1.0",
+  "description": "Simple pubsub library",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhilpb001/simple-pubsub.git"
+  },
+  "author": "AKHIL PB <akhil.pb001@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akhilpb001/simple-pubsub/issues"
+  },
+  "homepage": "https://github.com/akhilpb001/simple-pubsub#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-minify": "^1.0.0"
+  }
+}
