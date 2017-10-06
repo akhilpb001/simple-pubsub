@@ -1,12 +1,12 @@
 /**
- *	pubSub v0.0.1
+ *	pubSub v0.1.0
  */
 
 (function(win){
   var handlers = {}, subsId = 0;
   
   var pubSub = {
-	version: "0.0.1",
+	version: "0.1.0",
     
     subscribe: function(topic, callbackFn) {
       if(!handlers[topic]){
